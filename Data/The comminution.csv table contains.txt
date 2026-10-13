@@ -1,0 +1,1 @@
+The comminution.csv table contains measurements associated with the DWT and BWI indexes. The flotation.csv table contains measurements related to the metallurgical recovery of copper in a locked cycled test LCT and the drillholes.csv table contains chemical analysis data along with the geospatial coordinates of the samples.
